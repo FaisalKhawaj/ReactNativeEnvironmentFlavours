@@ -352,3 +352,8 @@ To install dev + staging together:
 | iOS workspace | `ios/Test.xcworkspace` |
 
 All environments currently share these IDs. See [Add a new environment](#add-a-new-environment) to install multiple builds on one device.
+
+
+______
+
+#flavoursInReactNative #multienviromentreactnative 
